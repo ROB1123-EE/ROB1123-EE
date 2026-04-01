@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover;Always+Learning&center=true&width=500&height=50">
 </p>
 
----
----
+------
 
 
 ## 💫 About Me :
