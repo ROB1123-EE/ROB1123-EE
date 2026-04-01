@@ -36,7 +36,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=ROB1123-EE&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ROB1123-EE&theme=onedark" />
 </p>
 
 ## 🔝 Top Contributed Repo
