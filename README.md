@@ -27,10 +27,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROB1123-EE&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROB1123-EE&layout=compact&theme=tokyonight" />
-</p>
+
 
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=ROB1123-EE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
