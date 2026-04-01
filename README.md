@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm S M A ROB</h1>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Future AI Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover;Always+Learning&center=true&width=500&height=50">
+</p>
+
+---
+
+
+
+
+
+
+
+
+
 ## 💫 About Me :
 💻 I’m currently working on Web Development & Software Engineering Projects<br>🤝 I’m looking to collaborate on Open Source, Web Apps, and AI-based projects<br>🧠 I’m looking for help with Advanced Backend, System Design & Machine Learning<br>🌱 I’m currently learning Full-Stack Development, Databases, and AI<br>⚡ Fun fact: I love building projects that solve real-world problems 🚀
 
