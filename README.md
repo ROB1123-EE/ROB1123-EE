@@ -63,6 +63,7 @@
 
 ### 🔹 3. AI / Machine Learning Project
 🔗 https://github.com/ROB1123-EE/SmartAttendenceSystem 
+
 💡 Machine learning model solving real-world problems  
 🛠️ Tech: Python, Pandas, NumPy 
 
