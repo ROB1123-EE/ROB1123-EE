@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>💻 I’m currently working on Web Development & Software Engineering Projects<br>🤝 I’m looking to collaborate on Open Source, Web Apps, and AI-based projects<br>🧠 I’m looking for help with Advanced Backend, System Design & Machine Learning<br>🌱 I’m currently learning Full-Stack Development, Databases, and AI/ML<br>💬 Ask me about JavaScript, GitHub, Web Projects, and Programming Basics<br>⚡ Fun fact: I love building projects that solve real-world problems 🚀
+🚀 About Me<br>💻 I’m currently working on Web Development & Software Engineering Projects<br>🤝 I’m looking to collaborate on Open Source, Web Apps, and AI-based projects<br>🧠 I’m looking for help with Advanced Backend, System Design & Machine Learning<br>🌱 I’m currently learning Full-Stack Development, Databases, and AI<br>⚡ Fun fact: I love building projects that solve real-world problems 🚀
 
 
 ## 🌐 Socials:
