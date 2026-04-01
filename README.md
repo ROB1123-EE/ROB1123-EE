@@ -54,25 +54,19 @@
 
 ### 🔹 1. Full-Stack Web App
 🔗 https://github.com/ROB1123-EE/Ho-Ma-S-main
+
 💡 A complete web application with authentication, database, and responsive UI  
 🛠️ Tech: React, Node.js, Express, MongoDB  
 
-< ### 🔹 2. Portfolio Website
-🔗 https://github.com/YOUR_USERNAME/project-name  
-💡 Personal portfolio showcasing skills, projects, and contact system  
-🛠️ Tech: HTML, CSS, JavaScript  >
+### 🔹 2. Portfolio Website
+
 
 ### 🔹 3. AI / Machine Learning Project
 🔗 https://github.com/ROB1123-EE/SmartAttendenceSystem 
 💡 Machine learning model solving real-world problems  
-🛠️ Tech: Python, Pandas, NumPy, Scikit-learn  
+🛠️ Tech: Python, Pandas, NumPy 
 
-< ### 🔹 4. Database Management System
-🔗 https://github.com/YOUR_USERNAME/project-name  
-💡 Designed and implemented relational database with queries  
-🛠️ Tech: MySQL, SQL  
+### 🔹 4. Database Management System
+  
 
 ### 🔹 5. Mini Projects Collection
-🔗 https://github.com/YOUR_USERNAME/project-name  
-💡 Collection of small projects and practice work  
-🛠️ Tech: C, JavaScript, Python > 
