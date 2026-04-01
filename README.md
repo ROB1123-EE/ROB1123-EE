@@ -28,11 +28,6 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ROB1123-EE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROB1123-EE&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ## 👀 Profile Views
 
