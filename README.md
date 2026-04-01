@@ -28,9 +28,9 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ROB1123-EE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/ROB1123-EE/ROB1123-EE/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/ROB1123-EE/ROB1123-EE/raw/output/github-contribution-grid-snake.svg)
 
 
 ---
