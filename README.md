@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ROB1123-EE&show_icons=true&theme=tokyonight" />
@@ -33,12 +33,6 @@
 </p>
 
  
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROB1123-EE&theme=onedark" />
-</p>
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ROB1123-EE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -56,4 +50,29 @@
   <img src="https://komarev.com/ghpvc/?username=ROB1123-EE&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+## 📌 Featured Projects
 
+### 🔹 1. Full-Stack Web App
+🔗 https://github.com/YOUR_USERNAME/project-name  
+💡 A complete web application with authentication, database, and responsive UI  
+🛠️ Tech: React, Node.js, Express, MongoDB  
+
+### 🔹 2. Portfolio Website
+🔗 https://github.com/YOUR_USERNAME/project-name  
+💡 Personal portfolio showcasing skills, projects, and contact system  
+🛠️ Tech: HTML, CSS, JavaScript  
+
+### 🔹 3. AI / Machine Learning Project
+🔗 https://github.com/YOUR_USERNAME/project-name  
+💡 Machine learning model solving real-world problems  
+🛠️ Tech: Python, Pandas, NumPy, Scikit-learn  
+
+### 🔹 4. Database Management System
+🔗 https://github.com/YOUR_USERNAME/project-name  
+💡 Designed and implemented relational database with queries  
+🛠️ Tech: MySQL, SQL  
+
+### 🔹 5. Mini Projects Collection
+🔗 https://github.com/YOUR_USERNAME/project-name  
+💡 Collection of small projects and practice work  
+🛠️ Tech: C, JavaScript, Python  
