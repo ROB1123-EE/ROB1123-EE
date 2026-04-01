@@ -32,11 +32,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ROB1123-EE&layout=compact&theme=tokyonight" />
 </p>
 
+ 
+## 🏆 GitHub Trophies
 
-
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=ROB1123-EE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=ROB1123-EE&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ROB1123-EE&limit=5&theme=dark&combine_all_yearly_contributions=true)
