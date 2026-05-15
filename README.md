@@ -53,7 +53,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 1. Full-Stack Web App
-🔗 https://github.com/ROB1123-EE/Ho-Ma-S-main
+🔗 https://github.com/ROB1123-EE/Hall-Management-System
 
 💡 A complete web application with authentication, database, and responsive UI  
 🛠️ Tech: React, Node.js, Express, MongoDB  
